@@ -76,6 +76,8 @@ datasets_yaml/*
 *./datasets_yaml/*
 */datasets_yaml/*
 
+yolov7/*
+
 # Django stuff:
 *.log
 local_settings.py
