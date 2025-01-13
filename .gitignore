@@ -71,6 +71,11 @@ data/
 datasets/
 
 
+/datasets_yaml/*
+datasets_yaml/*
+*./datasets_yaml/*
+*/datasets_yaml/*
+
 # Django stuff:
 *.log
 local_settings.py
