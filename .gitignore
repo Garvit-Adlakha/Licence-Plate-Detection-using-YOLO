@@ -70,13 +70,21 @@ datasets/*
 data/
 datasets/
 
-
+datasets_yaml
 /datasets_yaml/*
 datasets_yaml/*
 *./datasets_yaml/*
 */datasets_yaml/*
 
 yolov7/*
+
+
+state_training/*
+state_training
+
+weights/*
+weights
+
 
 # Django stuff:
 *.log
@@ -194,3 +202,4 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
+yolo11n.pt
